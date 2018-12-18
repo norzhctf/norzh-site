@@ -1,4 +1,4 @@
-baseURL = "http://norzh-ctf.fr"
+baseURL = "https://norzhctf.github.io/"
 languageCode = "fr-fr"
 title = "Norzh CTF"
 theme = "meghna-hugo"
