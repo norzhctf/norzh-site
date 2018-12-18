@@ -1,0 +1,67 @@
+baseURL = "http://norzh-ctf.fr"
+languageCode = "fr-fr"
+title = "Norzh CTF"
+theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Le Challenge"
+    URL = "challenge"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Partenaires"
+    URL = "partners"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Lots"
+    URL = "prize"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Informations"
+    URL = "contact-us"
+    weight = 5
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo-horizontal-2.png"
+logoFooter = "images/logo-footer.png"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/cyber.jpg"
+    # heading = "Norzh CTF 2019"
+    content= "Relevez un nouveau défi !"
+    btn = true
+    btnText="Découvrir"
+    btnURL="#challenge"
+    logo="images/logo-footer.png"
+    airbus="images/brand/Airbus.png"
+    iut="images/brand/IUT-color.png"
+    amossys="images/brand/Amossys.png"
+
+    # call to action
+    [params.cta]
+    enable = true
+    # title = "Great Design & Incredible Features"
+    # content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    # btnURL = "#"
+    # btnText = "Start a project with us"
+    bgImage = "images/backgrounds/bg-1.jpg"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher Team"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/NorzhCTF"

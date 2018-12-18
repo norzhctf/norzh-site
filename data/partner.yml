@@ -1,0 +1,23 @@
+enable : true
+heading : Nos
+headingSpan : Partenaires
+partnerItem :
+  - brandLogo :  images/brand/Airbus.png
+    title : Airbus Cybersecurity
+    margin: 55px
+
+  - brandLogo :  images/brand/IUT.png
+    title : IUT de Vannes
+    margin: 0px
+
+  - brandLogo :  images/brand/Amossys.png
+    title : Amossys
+    margin: 0px
+
+ctf : CTF
+organisation :  by
+ensibs : images/brand/Ensibs.png
+ensibs_title : ensibs
+partenariat : En partenariat avec
+soutient : Et le soutient du
+pec : images/brand/PEC.png

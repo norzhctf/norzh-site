@@ -1,0 +1,21 @@
+enable : true
+heading : Les
+headingSpan : Lots
+prizeItem :
+- prizeImg:  images/prize/krups.png
+  prizeLink: https://www.krups.fr/PETIT-D%C3%89JEUNER/Expresso-avec-broyeur-%C3%A0-grain/ESSENTIAL-NOIR-ECRAN-LCD/p/6100001753
+  title : Krups Essential LCD
+  content : La richesse des arômes du café en grains fraîchement moulus, directement dans votre tasse, avec la machine ESSENTIAL de Krups.
+  margin : 0px
+
+- prizeImg:  images/prize/pocophone-f1.png
+  prizeLink: https://www.mi.com/fr/pocophone-f1/
+  title : Xiaomi Pocophone F1
+  content : Un smartphone Android doté d’un grand écran LCD de 6,18 pouces, au format 18,7:9. Il embarque le puissant processeur Snapdragon 845 avec 6 Go de mémoire vive
+  margin : 50px
+
+- prizeImg:  images/prize/hero.png
+  prizeLink: https://shop.gopro.com/EMEA/cameras/hero7-black/CHDHX-701-master.html
+  title : Gopro Hero 7 Black
+  content : La toute nouvelle GoPro HERO7 Black. La caméra étanche embarquée et de voyage GoPro la plus polyvalente. Vidéo Ultra 4K - Stabilisation HyperSmooth - SuperPhoto HDR 12 MP GoPro.
+  margin : 105px

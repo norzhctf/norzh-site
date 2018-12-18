@@ -1,0 +1,20 @@
+enable : true
+heading : Les
+headingSpan : Informations
+title : Informations pratiques
+contentText :
+  - content : Le challenge a lieu le mardi 22 Janvier 2019 de 20h à 1h à la Galerie des Abonnés à quelques minutes du Grand Palais.
+  - content : Seules les équipes complètes de 4 joueurs seront acceptées.
+  - content : Le repas du soir est pris en charge par l'organisation.
+  - content : Il est demandé aux participants de venir avec leur ordinateurs et un câble Ethernet.
+  - content : Le format du challenge est un peu différent d'un jeopardy ... rendez-vous le 22 janvier pour plus de précisions ;-)
+contactSecTitle : Nous contacter
+mapLatitude : 50.6380453
+mapLongitude: 3.0639531
+image: images/contact/galerie.jpg
+contactDetails :
+  - icon : tf-map-pin
+    info : "40 place du Théâtre - Palais de la bourse, 59800 Lille, France"
+
+  - icon : tf-ion-ios-email-outline
+    info : "Email: norzh-ctf@protonmail.com"

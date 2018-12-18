@@ -1,0 +1,15 @@
+enable : true
+heading : Le
+headingSpan : Challenge
+image : images/challenge/challenge.jpg
+title : Norzh CTF
+description : Montez une équipe de 4 personnes et participez au challenge le mardi 22 janvier !
+aboutItem :
+  - title : L'objectif ?
+    content : Intégrez un système d’information, découvrez-le et prenez la main sur les services vulnérables !
+
+  - title : Au programme du challenge
+    content : Sécurité web, système, réseaux, OSINT ...
+registerLink : https://www.weezevent.com/norzh-ctf
+btnText : S'inscrire
+dateText : Rendez-vous mardi 22 janvier de 20h à 1h à la Galerie des Abonnés à Lille !
